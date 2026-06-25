@@ -53,7 +53,8 @@ const suraj = {
 
   databases: [
     "PostgreSQL",
-    "MongoDB"
+    "MongoDB",
+    "MySQL"
   ],
 
   currentlyBuilding: [
