@@ -151,8 +151,6 @@ Full-stack MERN e-commerce application.
 </tr>
 </table>
 
-> Add repo links to each project title once they're public — e.g. `[Smart Bus Backend](https://github.com/surajguvaju079/repo-name)` — so visitors can jump straight into the code.
-
 <br/>
 
 ## Smart Bus Architecture
