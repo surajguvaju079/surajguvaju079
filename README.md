@@ -1,7 +1,15 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,100:16213e&amp;height=200&amp;section=header&amp;text=Suraj%20Guvaju&amp;fontSize=44&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%C2%B7%20Backend%20Systems%20%C2%B7%20Cloud%20%26%20DevOps&amp;descSize=16&amp;descAlignY=55" alt="Suraj Guvaju" />
+
+<div align="center">
+
+![Suraj Guvaju](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Suraj%20Guvaju&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+
+### Software Engineer | Backend Systems | Cloud & DevOps
+
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Backend+Architecture+%26+Real-Time+Systems;AWS+%C2%B7+Docker+%C2%B7+CI%2FCD+%C2%B7+Nginx;NestJS+%C2%B7+Node.js+%C2%B7+PostgreSQL;React+Native+%C2%B7+Expo+%C2%B7+TypeScript;Building+Scalable+Products+from+Nepal)](https://git.io/typing-svg)
 
