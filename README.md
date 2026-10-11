@@ -1,29 +1,29 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Suraj%20Guvaju&fontSize=44&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend%20Systems%20%C2%B7%20Cloud%20%26%20DevOps&descSize=16&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,100:16213e&amp;height=200&amp;section=header&amp;text=Suraj%20Guvaju&amp;fontSize=44&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%C2%B7%20Backend%20Systems%20%C2%B7%20Cloud%20%26%20DevOps&amp;descSize=16&amp;descAlignY=55" alt="Suraj Guvaju" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Backend+Architecture+%26+Real-Time+Systems;AWS+%C2%B7+Docker+%C2%B7+CI%2FCD+%C2%B7+Nginx;NestJS+%C2%B7+Node.js+%C2%B7+PostgreSQL;React+Native+%C2%B7+Expo+%C2%B7+TypeScript;Building+Scalable+Products+from+Nepal)](https://git.io/typing-svg)
 
 <p>
-<a href="https://surajguvaju.com.np"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=firefox&logoColor=58A6FF" /></a>
-<a href="https://www.linkedin.com/in/surajguvaju"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/surajguvaju079"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://surajguvaju.com.np"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&amp;logo=firefox&amp;logoColor=58A6FF" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/surajguvaju"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/surajguvaju079"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=surajguvaju079&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=surajguvaju079&amp;color=58A6FF&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
-<br/>
+---
 
 ## About Me
 
-I'm a software engineer based in Kathmandu, Nepal, focused on backend architecture, real-time systems, cloud infrastructure, and mobile applications.
+I'm a software engineer based in **Kathmandu, Nepal**, focused on backend architecture, real-time communication systems, cloud infrastructure, and mobile applications.
 
-I enjoy building reliable and maintainable software, from designing REST APIs and event-driven systems to deploying containerized applications on AWS with automated CI/CD pipelines.
+I enjoy building reliable, maintainable software — from REST APIs and event-driven systems to deploying containerized applications on AWS with automated CI/CD pipelines.
 
-My engineering interests include distributed systems, scalable backend architecture, DevOps, observability, and machine learning.
+My interests include distributed systems, scalable backend architecture, DevOps, observability, and machine learning.
 
 ```typescript
 const suraj = {
@@ -78,25 +78,19 @@ const suraj = {
 };
 ```
 
-<br/>
+---
 
 ## Engineering Philosophy
 
 > Build for reliability. Optimize for maintainability. Scale only when necessary. Measure before improving.
 
-I believe good software engineering goes beyond writing code.
+Whether I'm building a real-time tracking platform, a backend API, a mobile application, or deploying cloud infrastructure, I focus on systems that are easy to reason about, operate, and maintain.
 
-Whether I'm developing a backend service, designing a real-time communication system, building a mobile application, or configuring cloud infrastructure, I focus on solutions that are easy to understand, deploy, monitor, and maintain.
-
-<br/>
+---
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Frontend & Mobile**
+### Frontend & Mobile
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -105,51 +99,34 @@ Whether I'm developing a backend service, designing a real-time communication sy
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Backend & APIs**
+### Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square)
 
-</td>
-<td valign="top" width="50%">
-
-**Databases & Messaging**
+### Databases & Messaging
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Data & Machine Learning**
+### Data & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Development Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 ## DevOps & Cloud Infrastructure
 
-<div align="center">
-
-**Cloud Platforms & Services**
+### Cloud Platforms
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
@@ -157,37 +134,35 @@ Whether I'm developing a backend service, designing a real-time communication sy
 ![IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-**Containers, Servers & Networking**
+### Containers, Servers & Networking
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-**CI/CD & Automation**
+### CI/CD & Automation
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
-**Monitoring & Observability**
+### Monitoring & Observability
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Grafana_Loki-0A1F44?style=for-the-badge&logo=grafana&logoColor=orange)
 
-</div>
-
 ### Infrastructure Experience
 
-- **AWS EC2:** Provisioning and managing Linux servers for containerized backend applications.
-- **AWS IAM:** Configuring deployment roles, permissions, and GitHub Actions OIDC authentication.
-- **Object Storage:** Working with S3-compatible storage, MinIO, and application media uploads.
-- **Docker:** Containerizing Node.js applications, PostgreSQL databases, and supporting services using Docker Compose.
-- **Nginx:** Reverse proxy configuration and backend service routing.
-- **CI/CD:** Building automated testing, build, and deployment workflows using GitHub Actions.
-- **Cloudflare:** DNS management and application deployment.
-- **Observability:** Working with structured application logging and exploring centralized monitoring using Grafana and Loki.
+- **AWS EC2:** Linux server provisioning and containerized backend deployments.
+- **AWS IAM:** GitHub Actions OIDC authentication and deployment permissions.
+- **Object Storage:** S3-compatible storage, MinIO, and application uploads.
+- **Docker:** Multi-container applications with Docker Compose.
+- **Nginx:** Reverse proxy and backend service routing.
+- **GitHub Actions:** Automated CI/CD workflows for backend and frontend applications.
+- **Cloudflare:** DNS management and deployment workflows.
+- **Observability:** Structured application logging and exploration of Grafana and Loki.
 
-<br/>
+---
 
 ## Architecture Interests
 
@@ -208,15 +183,11 @@ Cloud & DevOps          Data & Messaging
 └── Observability
 ```
 
-<br/>
+---
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🚚 Team Bhariya — Logistics Platform**
+### 🚚 Team Bhariya — Logistics Platform
 
 Full-stack logistics platform connecting vehicle owners and drivers.
 
@@ -227,7 +198,7 @@ Full-stack logistics platform connecting vehicle owners and drivers.
 - Push notifications and order management
 - Production deployment workflows
 
-**🚗 GadiBazar — Vehicle Marketplace**
+### 🚗 GadiBazar — Vehicle Marketplace
 
 Vehicle marketplace supporting listings, auctions, verification, and transactions.
 
@@ -238,7 +209,7 @@ Vehicle marketplace supporting listings, auctions, verification, and transaction
 - GitHub Actions CI/CD
 - Nginx reverse proxy
 
-**🚌 Smart Bus Tracking System**
+### 🚌 Smart Bus Tracking System
 
 Real-time bus tracking platform.
 
@@ -248,10 +219,7 @@ Real-time bus tracking platform.
 - Machine-learning-based ETA prediction
 - React Native mobile application
 
-</td>
-<td width="50%" valign="top">
-
-**👻 GhostTag — Temporary Social Network**
+### 👻 GhostTag — Temporary Social Network
 
 Backend and mobile architecture for anonymous temporary social rooms.
 
@@ -261,7 +229,7 @@ Backend and mobile architecture for anonymous temporary social rooms.
 - Room and membership management
 - Modular backend architecture
 
-**💻 Lenden POS**
+### 💻 Lenden POS
 
 Point-of-sale application with operational and inventory workflows.
 
@@ -270,7 +238,7 @@ Point-of-sale application with operational and inventory workflows.
 - Barcode and printer integration
 - Responsive user interfaces
 
-**📊 Data Mining & ML**
+### 📊 Data Mining & ML
 
 Machine learning and data analysis projects.
 
@@ -279,11 +247,7 @@ Machine learning and data analysis projects.
 - Clustering and association analysis
 - Dataset preprocessing and evaluation
 
-</td>
-</tr>
-</table>
-
-<br/>
+---
 
 ## System Architecture
 
@@ -363,32 +327,27 @@ Database   Live Updates
 - Isolate application services using Docker networks.
 - Keep sensitive configuration outside source control.
 - Centralize application logging.
-- Design infrastructure for maintainability and operational visibility.
+- Design infrastructure for maintainability.
 
-<br/>
+---
 
 ## GitHub Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=surajguvaju079&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajguvaju079&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=surajguvaju079&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;cache_seconds=1800" alt="GitHub Stats" />
 
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajguvaju079&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;langs_count=8&amp;cache_seconds=1800" alt="Top Languages" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=surajguvaju079&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=surajguvaju079&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
-> **Note:** GitHub stats cards use third-party services and may occasionally be unavailable due to rate limits.
+> GitHub statistics use third-party services and may occasionally be unavailable due to rate limits.
 
-<br/>
+---
 
 ## 2026 Goals
 
@@ -406,7 +365,7 @@ Database   Live Updates
 | 🔄 | Build ML-powered product features |
 | 🔄 | Write technical engineering content |
 
-<br/>
+---
 
 ## Connect
 
@@ -420,6 +379,6 @@ Database   Live Updates
 
 *"Build simple systems first. Scale them when reality demands it."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=90&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,100:16213e&amp;height=90&amp;section=footer" alt="Footer" />
 
 </div>
