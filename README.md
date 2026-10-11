@@ -19,7 +19,6 @@
 <a href="https://github.com/surajguvaju079"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=surajguvaju079&amp;color=58A6FF&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
